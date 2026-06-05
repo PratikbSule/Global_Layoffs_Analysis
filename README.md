@@ -2,11 +2,9 @@
 
 ## Project Overview
 
-As part of my SQL learning journey, I worked on a real-world layoffs dataset to perform data cleaning and exploratory data analysis (EDA) using MySQL.
+This project focuses on data cleaning and exploratory data analysis (EDA) of a real-world layoffs dataset using MySQL.
 
-The goal was to transform raw data into a clean dataset and generate meaningful business insights using SQL
-
-The objective was to transform raw data into a clean and reliable dataset, then perform exploratory data analysis (EDA) to identify trends, patterns, and business insights related to layoffs across companies, industries, countries, and years
+The objective was to transform raw data into a clean and reliable dataset and uncover meaningful business insights. The analysis examined layoff trends across companies, industries, countries, and time periods using SQL-based data cleaning and analytical techniques.
 
 ---
 
